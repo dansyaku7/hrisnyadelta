@@ -11,10 +11,12 @@
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^41.4.2",
     "@ckeditor/ckeditor5-react": "^11.0.0",
+    "@emotion/cache": "^11.14.0",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "@mui/icons-material": "^7.3.5",
     "@mui/material": "^7.3.5",
+    "@mui/system": "^7.3.9",
     "@tanstack/react-table": "^8.21.3",
     "@tiptap/react": "^3.0.7",
     "@tiptap/starter-kit": "^3.0.7",
